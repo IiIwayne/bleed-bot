@@ -22,4 +22,4 @@ module.exports = client;
 });
 Discord.Constants.DefaultOptions.ws.properties.$browser = "Discord Android"
 
-client.login(token)
+client.login(MTExNTIyODIxODQzMDA3NDkyMQ.G2x9_p.YzL4zKtHS-yEWNo8X336XBTLOrvae30VvegGY4)
